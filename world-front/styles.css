@@ -106,26 +106,10 @@ padding: 200px;
 
 
 
-
-/* Footer left */
-
 .footer-distributed .footer-left{
 	float: left;
 }
 
-/* The company logo */
-
-.footer-distributed h3{
-	color:  #ffffff;
-///	font: normal 36px 'Roboto', cursive;
-	margin: 0 0 10px;
-}
-
-.footer-distributed h3 span{
-	color:  #5383d3;
-}
-
-/* Footer links */
 
 .footer-distributed .footer-links{
 	color:  #ffffff;
@@ -147,28 +131,7 @@ padding: 200px;
 	margin: 0;
 }
 
-/* Footer social icons */
 
-.footer-distributed .footer-icons{
-	margin-top: 40px;
-}
-
-.footer-distributed .footer-icons a{
-	display: inline-block;
-	width: 35px;
-	height: 35px;
-	cursor: pointer;
-	background-color:  #33383b;
-	border-radius: 2px;
-
-	font-size: 20px;
-	color: #ffffff;
-	text-align: center;
-	line-height: 35px;
-
-	margin-right: 3px;
-	margin-bottom: 5px;
-}
 
 /* Footer Right */
 
