@@ -1,5 +1,5 @@
 # worldline
-created a static page using html,css  
+created a sample static page using html,css which contains a header, footer and product at the centre    
 
 created docker image and made the page live and running at localhost:8080  
 
